@@ -1,5 +1,5 @@
 # Data Analytics - Info
-<p>This repository contains the files and datasets created from tools such as Google Colab, Tableau dashboards, and Excel. One of the most valuable benefits I've gained from my journey in analytics is improved insight into datasets, allowing me to uncover hidden patterns and trends.
+<p>This repository contains the files and datasets created from tools such as Google Colaboratory, Jupyter Notebook, Tableau, and Microsoft Excel. One of the most valuable benefits I've gained from my journey in analytics is improved insight into datasets, allowing me to uncover hidden patterns and trends.
 </p> 
 
 <p>I've leveraged Python programming, SQL, and data visualization techniques in this repository to transform raw data into well-structured, insightful dashboards. Each project showcases my ability to manipulate data, perform rigorous analysis, and present findings in a visually appealing and understandable format. Explore my work to see how these skills combine to drive data-driven decision-making.</p>
